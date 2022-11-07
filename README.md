@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dathanas
+- 👀 I’m interested in iOS development
+- 🌱 I’m currently learning SwiftUI
+- 💞️ I’m looking to collaborate on inspired and challening repos
+- 📫 How to reach me athanasleri@gmail.com
